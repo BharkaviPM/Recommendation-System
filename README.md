@@ -96,3 +96,7 @@ This project delivers a hands-on approach to building a *Recommendation System* 
 # Output
 
 ---
+
+![Image](https://github.com/user-attachments/assets/df65b501-8481-449a-acf9-1ed280ad9e26)
+
+---
