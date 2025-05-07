@@ -92,3 +92,7 @@ This project demonstrates how to build a *Recommendation System* using *collabor
 This project delivers a hands-on approach to building a *Recommendation System* using Python and scikit-learn. By combining content-based filtering with robust similarity measures, the system can effectively suggest movies similar to a user’s choice. The workflow is adaptable for more advanced recommendation strategies, including collaborative filtering and hybrid models, making it an excellent foundation for further exploration in recommender systems.
 
 ---
+
+# Output
+
+---
